@@ -1,4 +1,12 @@
-# User Guide
+# Multi Agent Multi State AI System Using A* Algorithm
+
+## About
+This project implements a multi-agent AI system that navigates a complex maze using the A* search algorithm to find and claim hidden treasure. The system operates with two distinct agents:
+
+1. Path Finding Agent – Strategically explores the maze to locate the treasure.
+2. Treasure Claimer Agent– Once the treasure is found, this agent claims the treasure.
+
+By leveraging multiple states, the agents adapt dynamically to their environment, handling obstacles, optimizing paths, and responding to changing conditions within the maze. This project showcases intelligent search behavior and collaboration between autonomous entities.
 
 ## Running the project
 
