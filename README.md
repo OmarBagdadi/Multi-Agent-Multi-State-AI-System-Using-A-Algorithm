@@ -34,6 +34,10 @@ If you want to create your own custom level overrite the text file under MazeGam
 
 Your level should only contain one Treasure Hunter Agent (P) and Goal (G) you may have multiple Walls(\#) , Treasures(X) and Paths (.). Not that you can only play your level if you run the program through eclipse.
 
-## LibGDX Wiki
+## Output
 
-If you having any further issues refer to the [LibGdx Wiki](https://libgdx.com/wiki/) 
+![Watch the video](demo.gif)
+
+## Acknowledgments
+
+This project uses LibGdx to learn more about it refer to the [LibGdx Wiki](https://libgdx.com/wiki/) 
