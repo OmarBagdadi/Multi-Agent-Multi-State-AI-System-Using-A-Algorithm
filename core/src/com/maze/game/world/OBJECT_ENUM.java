@@ -1,0 +1,13 @@
+package com.maze.game.world;
+
+public enum OBJECT_ENUM {
+	GOAL_OPENED,
+	GOAL_CLOSED,
+	OBSTACLE,
+	PATH,
+	TREASURE_OPENED,
+	TREASURE_CLOSED,
+	SLIME_GOO,
+	PATH_FINDER,
+	TREASURE_HUNTER;
+}
